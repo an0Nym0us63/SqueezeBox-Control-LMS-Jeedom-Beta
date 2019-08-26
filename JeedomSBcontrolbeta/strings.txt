@@ -1,19 +1,19 @@
-# String file for Jeedomsbcontrol plugin
+# String file for Jeedomsbcontrolbeta plugin
 #
 # Any string you want to display should be defined here.
 # It makes it easier to support multiple languages
 
 
-PLUGIN_JEEDOMSBCONTROL_NAME
+PLUGIN_JEEDOMSBCONTROLBETA_NAME
 	EN	JeedomSBcontrol
 
-PLUGIN_JEEDOMSBCONTROL_DESC
+PLUGIN_JEEDOMSBCONTROLBETA_DESC
 	EN	Plugin pour SqueezeBox Control Jeedom
 
-SETUP_GROUP_JEEDOMSBCONTROL
+SETUP_GROUP_JEEDOMSBCONTROLBETA
 	EN	Paramètres SqueezeBox Control Jeedom
 
-SETUP_GROUP_JEEDOMSBCONTROL_DESC
+SETUP_GROUP_JEEDOMSBCONTROLBETA_DESC
 	EN	IP sous la forme 192.168.1.59 le complement peut etre par exemple /jeedom
     
 SETUP_JEEDOMIP
