@@ -1,0 +1,1 @@
+# SqueezeBox-Control-LMS-Jeedom-Beta
