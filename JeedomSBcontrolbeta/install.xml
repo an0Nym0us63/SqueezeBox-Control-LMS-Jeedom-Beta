@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<extension>
+        <id>4ec7ccbb-be22-4819-9041-7c1020773e6c</id>
+        <name>PLUGIN_JEEDOMSBCONTROLBETA_NAME</name>
+        <module>Plugins::JeedomSBcontrolbeta::Plugin</module>
+        <version>1.0</version>
+        <description>PLUGIN_JEEDOMSBCONTROLBETA_DESC</description>
+        <creator>Sarakha63</creator>
+
+	<defaultState>enabled</defaultState>
+        
+        <homepageURL>http://www.jeedom.com</homepageURL>
+	<optionsURL>plugins/Jeedomsbcontrolbeta/settings/basic.html</optionsURL>
+	<type>2</type><!-- type=extension -->
+
+        <targetApplication>
+  	        <id>SqueezeCenter</id>
+                <minVersion>7.0a</minVersion>
+                <maxVersion>7+</maxVersion>
+        </targetApplication>
+
+</extension>

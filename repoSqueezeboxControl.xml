@@ -1,0 +1,18 @@
+<extensions>
+<details>
+<title lang="EN">Plugin JeedomSBcontrol Beta</title>
+</details>
+<plugins>
+<plugin name="JeedomSBcontrol Beta" version="1.0.0" minTarget="7.5" maxTarget="*">
+<title lang="EN">JeedomSBcontrol Beta</title>
+<desc lang="EN">
+Plugin Beta pour se synchroniser avec le plugin Squeezebox Control de Jeedom
+</desc>
+<creator>Sarakha63</creator>
+<email/>
+<url>http://github.com/sarakha63/SqueezeBox-Control-LMS-Jeedom-Beta/raw/master/JeedomSBcontrolbeta.zip</url>
+<sha>2f258a8348a67cb9a6ca7c3d47c830325c33dc16</sha>
+<link>https://jeedom.fr/</link>
+</plugin>
+</plugins>
+</extensions>
